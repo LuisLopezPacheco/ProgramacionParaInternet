@@ -26,7 +26,7 @@
             <div class="mb-3">
 
                 <input type="number" id="salario" name="salario" class="form-control" placeholder="Saldo del Cliente" step="0.01" required>
-                <p class="form-text">Escribe el saldo del Empleado </p>
+                <p class="form-text">Escribe el saldo del cliente </p>
 
             </div>
             <div class="input-group mb-3">
